@@ -16,5 +16,5 @@ function numeroMaisFrequente(arr) {
     return maxNum;
   }
   
-  console.log(numeroMaisFrequente([1, 2, 3, 2, 1, 2])); // 2
+  console.log(numeroMaisFrequente([1, 2, 3, 2, 1, 2])); 
   

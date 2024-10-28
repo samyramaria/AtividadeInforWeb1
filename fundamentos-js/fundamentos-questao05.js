@@ -6,6 +6,6 @@ function checarNumeros(num1, num2, num3) {
     }
   }
   
-  checarNumeros(55, 70, 85); // Sucesso
-  checarNumeros(40, 70, 85); // Erro
+  checarNumeros(55, 70, 85); 
+  checarNumeros(40, 70, 85); 
   

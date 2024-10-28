@@ -4,4 +4,4 @@ function inverteNumero(numero) {
     return parseInt(invertido);
 }
 
-console.log(inverteNumero(12356)); // Saída: 65321
+console.log(inverteNumero(12356)); 

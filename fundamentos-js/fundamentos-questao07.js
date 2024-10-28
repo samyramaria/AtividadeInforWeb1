@@ -7,5 +7,5 @@ function modificarFrase(frase) {
       .join(" ");
   }
   
-  console.log(modificarFrase("Olá Mundo JavaScript")); // OLÁ mundo javascript
+  console.log(modificarFrase("Olá Intin")); 
   

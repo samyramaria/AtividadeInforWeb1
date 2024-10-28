@@ -7,6 +7,6 @@ function verificarNumeros(num1, num2) {
     );
   }
   
-  console.log(verificarNumeros(12, 12)); // true
-  console.log(verificarNumeros(10, 20)); // false
+  console.log(verificarNumeros(12, 12)); 
+  console.log(verificarNumeros(10, 20)); 
   

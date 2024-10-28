@@ -3,5 +3,5 @@ function verificarPalavra(frase, palavra) {
     return frase.includes(palavra);
   }
   
-  console.log(verificarPalavra("Olá Mundo", "Mundo")); // true
+  console.log(verificarPalavra("Olá Intin", "Intin")); 
   

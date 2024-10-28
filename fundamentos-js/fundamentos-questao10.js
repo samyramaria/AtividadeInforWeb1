@@ -7,5 +7,5 @@ function formatarNome(nomeCompleto) {
     return `${iniciais}. ${sobrenome}`;
   }
   
-  console.log(formatarNome("Alan Mathison Turing")); 
+  console.log(formatarNome("Alan Mathison Turing"));
   
